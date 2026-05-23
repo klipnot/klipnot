@@ -1,16 +1,29 @@
-## Hi there 👋
+# 👋 Hey, I'm a Software Engineer
 
-<!--
-**klipnot/klipnot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’ve been building software for more than 10 years, mainly around front-end systems, architecture and complex applications.
 
-Here are some ideas to get you started:
+My focus is not just writing code, but understanding how systems behave, scale, and evolve over time.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🧠 What drives me
+
+I like working on problems where multiple layers interact:
+
+- software architecture & system design
+- complex front-end applications
+- reactive / event-driven systems
+- developer experience & tooling
+- long-term maintainability over short-term hacks
+
+I tend to spend a lot of time trying to understand *why* a system behaves the way it does, not just *how* to fix it.
+
+---
+
+## ⚙️ Main stack
+
+These are the technologies I work with regularly:
+
+```txt
+Angular • TypeScript • RxJS • Node.js • Fastify
+Docker
